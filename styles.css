@@ -103,7 +103,7 @@ body {
 .profile-links {
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
     gap: 50px;
 }
 
